@@ -258,7 +258,7 @@
    "zone": "NE",
    "bars": 0,
    "stripes": 0,
-   "colors": ["color.red", "color.white", "color.black", "color.orange"],
+   "colors": ["color.red", "color.white"],
    "circles": 0,
    "crosses": 0,
    "saltires": 0,
