@@ -2961,27 +2961,6 @@
    "botrightcolor": "color.blue"
  },
  {
-   "country": "country.SM",
-   "imageName": "SM",
-   "continent": "continent.afr",
-   "zone": "NE",
-   "bars": 0,
-   "stripes": 3,
-   "colors": ["color.red", "color.green", "color.yellow", "color.black"],
-   "circles": 0,
-   "crosses": 0,
-   "saltires": 0,
-   "quarters": 0,
-   "sunstars": 2,
-   "crescent": 0,
-   "traingle": 1,
-   "symbol": false,
-   "animate": false,
-   "text": false,
-   "topleftcolor": "color.green",
-   "botrightcolor": "color.green"
- },
- {
    "country": "country.SA",
    "imageName": "SA",
    "continent": "continent.as",
