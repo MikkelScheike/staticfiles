@@ -1611,8 +1611,8 @@
    "crescent": 0,
    "traingle": 0,
    "symbol": true,
-   "animate": true,
-   "text": true,
+   "animate": false,
+   "text": false,
    "topleftcolor": "color.white",
    "botrightcolor": "color.blue"
  },
